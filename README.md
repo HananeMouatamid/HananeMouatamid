@@ -18,4 +18,3 @@ Computer Science engineering student at **ENSICAEN** (Caen, France), aiming to s
 ## Contact
 
 - LinkedIn: [linkedin.com/in/hanane-mouatamid-](https://www.linkedin.com/in/hanane-mouatamid-)
-- Email: hanane.mouatamid@ecole.ensicaen.fr
